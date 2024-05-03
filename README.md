@@ -1,5 +1,5 @@
 # sap-hana-db-cloud-apps-consume-api-services
-SAP Hana DB Cloud Apps Consume API Services
+SAP Hana DB Cloud Apps Consume API Services using Python Flask
 
 $>pip install requests flask hdbcli
 
@@ -12,6 +12,8 @@ Source data: https://services.odata.org/V3/northwind/northwind.svc/Products?$for
 ![alt text](https://github.com/jenizar/sap-hana-db-cloud-apps-consume-api-services/blob/main/screenshot/api_source_data.PNG)
 
 ![alt text](https://github.com/jenizar/sap-hana-db-cloud-apps-consume-api-services/blob/main/screenshot/sap_bas_running.PNG)
+
+#flask #python #s4hana #sap #sapbas
 
 references:
 
